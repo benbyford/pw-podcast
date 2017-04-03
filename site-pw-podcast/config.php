@@ -36,6 +36,7 @@ $config->debug = false;
 
 $config->prependTemplateFile = '_init.php';
 $config->appendTemplateFile = '_main.php';
+$config->installed = 1491212518;
 
 
 /*** INSTALLER CONFIG ********************************************************************/
