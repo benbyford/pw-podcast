@@ -13,3 +13,6 @@ This profile can be used like any other PW site but to add you podcasts you'll n
 1. add a new child of episodes as a podcast template and fill in the information
 2. add a new child of your newly created podcast and add your mp3 - this is so you can track the number of downloads (or visits) to this specific mp3 page which gives you a small amount of stats to play with; itunes don't give you stats on your podcast, so you're need any amount that will help)
 3. add your rss url to itunes through their connect site https://podcastsconnect.apple.com/ and your live!
+
+### Screenshot
+![screenshot](/site-pw-podcast/install/screenshot_2017-04-03_12_06_27.png)
