@@ -24,7 +24,7 @@ foreach ($podcasts as $podcast) {
 		$out .= '<div class="thumb"><img src="' . $podimg->url . '"></div>';
 		$out .= '<h2><a href="'. $cast->url .'">' . $cast->title . '</a></h2>';
 		$out .= '<div class="summary">' . $cast->summary . '</div>';
-		$out .= '<div class="audio"><audio controls src="' . $cast->audio->url . '"></audio></div>';
+		$out .= '<div class="audio"><audio controls src="' . $cast->children->first->mp3->url . '"></audio></div>';
 		$out .= '</div>';
 	}
 	$out .= '</div>';
