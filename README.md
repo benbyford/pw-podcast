@@ -1,6 +1,6 @@
 # pw-podcast
 
-Simple site profile to create a podcast website that can connect with itunes.
+Simple site profile for http://processwire.com to create a podcast website that can connect with itunes.
 
 ## Install
 
@@ -15,4 +15,4 @@ This profile can be used like any other PW site but to add you podcasts you'll n
 3. add your rss url to itunes through their connect site https://podcastsconnect.apple.com/ and your live!
 
 ### Screenshot
-![screenshot](/site-pw-podcast/install/screenshot_2017-04-03_12_06_27.png)
+![screenshot](https://raw.githubusercontent.com/benbyford/pw-podcast/master/site-pw-podcast/install/screenshot_2017-04-03_12_06_27.png)
